@@ -1,0 +1,139 @@
+body
+{
+    background-image: url(https://www.ecopetit.cat/wpic/mpic/26-265214_download-pc-gaming-keyboard-monitor-computer-wallpapers-gaming.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: auto;
+}
+
+
+.mainTex
+{
+    font-family: Century Gothic;
+    font-size: 350%;
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 60px;
+    margin-left: 330px;
+    margin-right: 300px;
+    margin-top: 100px;
+    background-color: rgba(12, 10, 10, 0.788);
+    color: rgba(243, 233, 233, 0.89);
+}
+
+.mainTex:hover
+{
+    background-color: black;
+    color: wheat;
+}
+
+
+.Programator
+{
+    font-family: Century Gothic;
+    font-size: 250%;
+    text-align: left;
+    border: 5px solid black;
+    margin-top: 120px;
+    margin-right: 1070px;
+    padding-left: 100px;
+    border-radius: 23px;
+    color: rgba(243, 233, 233, 0.89);
+    background-color: rgba(12, 10, 10, 0.788);
+}
+
+.Web_Disigner
+{
+    font-family: Century Gothic;
+    font-size: 250%;
+    text-align: center;
+    margin-top: -60px;
+    border: 5px solid black;
+    border-radius: 23px;
+    margin-left: 550px;
+    margin-right: 550px;
+    color: rgba(243, 233, 233, 0.89);
+    padding-left: -50px;
+    background-color: rgba(12, 10, 10, 0.788);
+} 
+
+
+.Financial_manager
+{
+    font-family: Century Gothic;
+    font-size: 250%;
+    text-align: end;
+    margin-top: -60px;
+    border: 5px solid black;
+    border-radius: 23px;
+    margin-left: 1055px;
+    margin-right: 50px;
+    padding-right: 100px;    
+    padding-left: 23px;
+    color: rgba(243, 233, 233, 0.89);
+    background-color: rgba(12, 10, 10, 0.788);
+}
+.Financial_manager:hover,.Web_Disigner:hover,.Programator:hover
+{
+    background-color:black;
+    color: white;
+}
+
+
+.programator_desc
+{
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 5px solid black;
+    margin-right: 1075px;
+    text-align: center;
+    border-radius: 15px;
+    font-family:Century Gothic ;
+    font-size: 150%;
+    background-color: rgba(12, 10, 10, 0.788);
+    color: rgba(243, 233, 233, 0.89);
+}
+
+.programator_desc:hover
+{
+    background-color: black;
+    color: wheat;
+}
+
+
+.Web_Disigner_desc
+{
+    text-align: center;
+    border: 5px solid black;
+    font-family:Century Gothic ;
+    font-size: 150%;
+    margin-left: 525px;
+    margin-right: 525px;
+    margin-top: -385px;
+    border-radius: 15px;
+    padding-bottom: 25px;
+    background-color: rgba(12, 10, 10, 0.788);
+    color: rgba(243, 233, 233, 0.89);
+}
+.Web_Disigner_desc:hover
+{
+    background-color: black;
+    color: wheat;
+}
+
+
+.Manager_desc
+{
+    
+    border: 5px solid black;
+    font-family:Century Gothic ;
+    font-size: 150%;
+    margin-left: 1055px;
+    margin-top: -380px;
+    padding-top: -20px;
+    margin-right: 50px;
+    text-align: center;
+    border-radius: 15px;
+    background-color: rgba(12, 10, 10, 0.788);
+    color: rgba(243, 233, 233, 0.89);
+}
